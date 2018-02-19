@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\erwin\AndroidStudioProjects\Calculadorav2withActivities\Calculadorav2.iml" filepath="C:\Users\erwin\AndroidStudioProjects\Calculadorav2withActivities\Calculadorav2.iml" />
+      <module fileurl="file://C:\Users\Visitante\Desktop\Calculadorav2withActivities-master\Calculadorav2withActivities.iml" filepath="C:\Users\Visitante\Desktop\Calculadorav2withActivities-master\Calculadorav2withActivities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadorav2withActivities-master.iml" filepath="$PROJECT_DIR$/Calculadorav2withActivities-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Visitante\Desktop\Calculadorav2withActivities-master\app\app.iml" filepath="C:\Users\Visitante\Desktop\Calculadorav2withActivities-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
